@@ -3,24 +3,21 @@
 ## My projects!
 
 
-<img align="left" alt="Lets Hang!" width="260px" src="https://i.imgur.com/3PlGZaM.jpeg" />
-
- [Lets Hang!](https://lets-hang.onrender.com)
-
+<div style="display:flex; flex-direction:column;">
+    <img alt="Lets Hang!" width="260px" src="https://i.imgur.com/3PlGZaM.jpeg" />
+    <a href="https://lets-hang.onrender.com">Lets Hang!</a>
+</div>
 <br>
 
-<br/>
-<img align="left" alt="Petsy" width="260px" src="https://i.imgur.com/9d518Md.jpeg" />
-<br/>
-
- [Petsy](https://aa-flask-project.onrender.com)
+<div style="display:flex; flex-direction:column;">
+    <img alt="Petsy" width="260px" src="https://i.imgur.com/9d518Md.jpeg" />
+    <a href="https://aa-flask-project.onrender.com">Petsy</a>
+</div>
 <br>
-<img align="left" alt="CareBnb" width="260px" src="https://i.imgur.com/OV4gh9e.jpeg" />
-<br>
-
- [CareBnb](https://anton-auth-me.onrender.com)
- 
- <br>
+<div style="display:flex; flex-direction:column;">
+    <img alt="CareBnb" width="260px" src="https://i.imgur.com/OV4gh9e.jpeg" />
+    <a href="https://anton-auth-me.onrender.com">CareBnb</a>
+</div>
 
 ## I'm a recent graduate from App Academy and survived!
 
