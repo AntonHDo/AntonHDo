@@ -13,11 +13,7 @@
     <img alt="Petsy" width="260px" src="https://i.imgur.com/9d518Md.jpeg" />
     <a href="https://aa-flask-project.onrender.com">Petsy</a>
 </div>
-<br>
-<div style="display:flex; flex-direction:column;">
-    <img alt="CareBnb" width="260px" src="https://i.imgur.com/OV4gh9e.jpeg" />
-    <a href="https://anton-auth-me.onrender.com">CareBnb</a>
-</div>
+
 
 ## I'm a recent graduate from App Academy and survived!
 
