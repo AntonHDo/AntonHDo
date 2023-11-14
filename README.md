@@ -15,7 +15,7 @@
 </div>
 
 
-## I'm a recent graduate from App Academy and survived!
+## I'm a graduate from App Academy 
 
 - 🔭 I’m currently working on refactoring projects
 - 🌱 I’m currently learning to represent myself along with my brand
